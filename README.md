@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/may-shech/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/may-shech/) 
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shech2&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
